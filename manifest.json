@@ -1,0 +1,17 @@
+{
+    "name":"Prueba PWA",
+    "short_name":"PruebaPWA",
+    "theme_color":"#ffe08a",
+    "background_color":"#ffe08a",
+    "display":"standalone",
+    "orientation":"portrait",
+    "scope":"./",
+    "start_url":"./",
+    "icons":[
+        {
+            "src":"./icon-512.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        }
+    ]
+}
